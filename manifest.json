@@ -1,0 +1,12 @@
+{
+  "name": "Modello SmartDeviceLink",
+  "version": "0.0.2",
+  "app": {
+    "launch":{
+      "local_path": "index.html"
+    }
+  },
+  "icons": {
+    "128": "SmartDeviceLink_icon.png"
+  }
+}
