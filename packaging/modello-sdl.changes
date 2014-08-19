@@ -1,3 +1,6 @@
+* Tue Aug 19 2014 Brian Jones <brian.j.jones@intel.com> accepted/tizen/ivi/20140807.053941-1-gc1691b9
+- Matching config.xml icon name to the one in the .wgt file
+
 * Wed Aug 06 2014 Brian Jones <brian.j.jones@intel.com> accepted/tizen/ivi/20140614.104104-1-g22ec0f1
 - Updating manifest to use xwalk_version instead of version - TC-1465
 
