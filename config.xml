@@ -2,7 +2,7 @@
 
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" version="0.5.0" viewmodes="fullscreen" id="http://com.ford.tizen/smartdevicelink">
 	<icon src="SmartDeviceLink_icon.png"/>
-	<name>Modello SmartDeviceLink</name>
+	<name>ModelloSmartDeviceLink</name>
     <tizen:application id="Modello010.SDL" package="Modello010" required_version="2.1"/>
 	<feature name="http://tizen.org/api/bluetooth" required="true"/>
 	<feature name="http://tizen.org/api/bluetooth.admin" required="true"/>
