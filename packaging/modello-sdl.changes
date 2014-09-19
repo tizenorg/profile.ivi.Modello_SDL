@@ -1,3 +1,6 @@
+* Thu Sep 18 2014 Brian Jones <brian.j.jones@intel.com> submit/tizen_ivi/20140911.180109-1-g9570878
+- Updating packaging to remove hard coded paths
+
 * Wed Sep 10 2014 Brian Jones <brian.j.jones@intel.com> submit/tizen_ivi/20140819.215851-1-g5f6b3fa
 - Removing space in app name - Fix for TC-1404
 
